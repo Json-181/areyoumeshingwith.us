@@ -54,6 +54,7 @@ hb:
       main_sections: # leave it empty to include all regular pages.
         - docs
         - blog
+        - mesh-telemetry
     giscus:
       repo: flmesh/areyoumeshingwith.us
       repo_id: R_kgDOOArsUA

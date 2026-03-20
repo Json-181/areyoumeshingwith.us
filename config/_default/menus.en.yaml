@@ -11,10 +11,46 @@ main:
   
   - name: Mesh Telemetry
     identifier: mesh-telemetry
-    url: https://malla.areyoumeshingwith.us
+    url: /mesh-telemetry/
     weight: 70
     params:
       icon:
         header: Florida Mesh Telemetry
         vendor: font-awesome-solid
+        name: tachograph-digital
+
+  - name: Meshtastic
+    identifier: meshtastic
+    parent: mesh-telemetry
+    url: /mesh-telemetry/meshtastic/
+    weight: 71
+    params:
+      icon:
+        header: Meshtastic
+        vendor: font-awesome-solid
+        name: gauge-high
+        width: 1em
+        height: 1em
+
+  - name: Meshcore
+    identifier: meshcore
+    parent: mesh-telemetry
+    url: /mesh-telemetry/meshcore/
+    weight: 72
+    params:
+      icon:
+        header: Meshcore
+        vendor: font-awesome-solid
         name: gauge
+        width: 1em
+        height: 1em
+
+  - name: Malla
+    parent: meshtastic
+    url: https://malla.areyoumeshingwith.us
+    weight: 73
+
+  - name: Meshview
+    parent: meshtastic
+    url: https://meshview.areyoumeshingwith.us
+    weight: 74

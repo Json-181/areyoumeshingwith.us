@@ -8,11 +8,13 @@ github.com/KaTeX/KaTeX v0.16.23/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAz
 github.com/KaTeX/KaTeX v0.16.27 h1:aXMWvUfxdQQ6iLGndMbU6vXmm7bOfp5AeQIPVDVG/2M=
 github.com/KaTeX/KaTeX v0.16.27/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/KaTeX/KaTeX v0.16.32/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
+github.com/KaTeX/KaTeX v0.16.33 h1:3VFwwM6oza71pajHbnzhpIM80FH3zSS4p6uKiYUW0a8=
 github.com/KaTeX/KaTeX v0.16.33/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/desandro/masonry v4.2.2+incompatible h1:4LI69kwq5DJSF9jhHVGfCw+q2Nt3IgJ0KzEp19Z3YiA=
 github.com/desandro/masonry v4.2.2+incompatible/go.mod h1:4P4Or5YZcNuAtGW3JOYLTrmi+ZyqhCPj7xTgradMEVU=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400 h1:L6+F22i76xmeWWwrtijAhUbf3BiRLmpO5j34bgl1ggU=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400/go.mod h1:uekq1D4ebeXgduLj8VIZy8TgfTjrLdSl6nPtVczso78=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20800 h1:j5myhhzYwIHTr5ctK96Elfgp5uRROvrlTzYwwe1nF8o=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20800/go.mod h1:P5GGyhdxi00C5zW7vkRo/IS532gZY/YS2TS395Xaxho=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
@@ -158,6 +160,7 @@ github.com/hbstack/toc-scrollspy v0.2.0 h1:JPBozafeDvTUwGFkR90m/SzcyBfKg40pVJOLF
 github.com/hbstack/toc-scrollspy v0.2.0/go.mod h1:wIqdWFRjqGGKX6Y5XVRQzaBBeZ91kZBKgovQp8IPvtk=
 github.com/henrygd/bigger-picture v1.1.19 h1:fv3S1wlW5L9XF01wOHGZmwPn3vMNgQOwwYMhTTHhHic=
 github.com/henrygd/bigger-picture v1.1.19/go.mod h1:LayqbjDNNsZH+ZXklmjBe5T02qxpH9Cah/ygAraOBIk=
+github.com/henrygd/bigger-picture v1.1.20 h1:G5ljcqT0XAwO3RXIFjQWn0Gpq4Frte/io//agR1E2H0=
 github.com/henrygd/bigger-picture v1.1.20/go.mod h1:LayqbjDNNsZH+ZXklmjBe5T02qxpH9Cah/ygAraOBIk=
 github.com/hugomods/ascii v0.1.0 h1:c7E0nV3z7PiNchGXkIuFBWsKym17k0iOo+o6Bp6bw30=
 github.com/hugomods/ascii v0.1.0/go.mod h1:vvC2YaCuNBWl/8F/mfk9vMxVpwXluH80cROV9TDpmLk=

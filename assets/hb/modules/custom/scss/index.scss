@@ -5,3 +5,10 @@
 /*! PUT YOU STYLE HERE TO AVOID GETTING REMOVING BY PURGECSS. */
 
 /*! purgecss end ignore */
+
+/* flip meshcore nav icon */
+.hb-header-menus .hb-header-menu.nav-item .nav-link[href="/mesh-telemetry/meshcore/"] .hb-header-menu-icon,
+.hb-header-menus .hb-header-menu.nav-item .nav-link[href="/mesh-telemetry/meshcore/"] svg {
+  transform: scaleX(-1);
+}
+
