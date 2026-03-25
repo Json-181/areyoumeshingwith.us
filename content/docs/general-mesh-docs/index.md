@@ -1,14 +1,16 @@
 ---
-title: Meshtastic Docs
+title: General Mesh Docs
 menu:
   main:
     parent: docs
-    weight: 3
+    weight: 1
     params:
       icon:
         vendor: bs
         name: book-half
-        color: 
 ---
 
-Meshtastic documentation and guides.
+General Mesh Technologies documentation and guides.
+
+
+*Stay Tuned*

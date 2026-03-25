@@ -7,7 +7,8 @@ menu:
     params:
       icon:
         vendor: bs
-        name: diagram-3
+        name: book-half
+        color: 
 ---
 
 Meshcore documentation and guides.
